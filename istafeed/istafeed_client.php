@@ -12,7 +12,7 @@
 	}
 </style>
 <?php if(isset($_GET['access_denied'])){ ?>
-<h2 style="color:red;">You must Authorized first.</h2>
+<h2 style="color:red;">You must Authorized first11.</h2>
 <?php }?>
 
 <?php 

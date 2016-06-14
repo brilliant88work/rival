@@ -43,6 +43,6 @@ if(isset($_GET['code'])){
 
 }
 //header("location:istafeed/istafeed_client.php");
-?> 
+?> Hello
 
     <!-- ******FOOTER****** --> 
