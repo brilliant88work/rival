@@ -1,5 +1,5 @@
 <?php
-echo "<pre>"; print_r($_GET); die;
+echo "<pre>"; print_r($_GET); die('abc');
 //header("location:istafeed_client.php?".$_GET);
  if(isset($_GET['error'])){
 	header("location:istafeed_client.php?".$_GET['error']);
